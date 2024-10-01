@@ -1,2 +1,0 @@
-# adivinhe-o-numero-js
- 
