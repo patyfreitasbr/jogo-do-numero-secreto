@@ -1,0 +1,3 @@
+
+Módulo 2
+1. Sua vez: inclua comandos console.log em diferentes partes do código para verificar o fluxo do programa, os valores das variáveis e outras informações relevantes durante a fase de desenvolvimento.
