@@ -1,21 +1,21 @@
+//perguntando o dia daa semana
+let diaSemana =prompt('Qual é o dia da semana? ');
+    
+//extra - converter para maiuscula para facilistar comparação
+diaSemana =  diaSemana.toLowerCase();
 
+//extra msotra qual dia foi digitado no console
+console.log('Dia da semana digitado foi:', diaSemana);
 
-
-let diaSemana = prompt('Qual é o dia da semana?');
-console.log (diaSemana)
-
-//Compara se chute  foi igual numero secreto
-console.log('Resultado da comparação:', chute == numeroSecreto);
-
-//se chute for igual a numero secreto
-if (numeroSecreto == chute) {
-    alert(`Isso ai! você descobriu o número secreto ${numeroSecreto}`);
+//comparando as escolhas
+if (diaSemana === 'sábado' || diaSemana === 'domingo') {
+    
+    alert('Bom fim de semana!');
 }
-
 
 else {
-    //verifica o numero digitado quando erra
-    console.log('Valor digitado: ', chute );
-
-    alert('Você errou :( ')
+    alert('Boa semana!');
 }
+
+
+
