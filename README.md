@@ -77,8 +77,8 @@ Este projeto está licenciado sob a MIT License. Veja o arquivo LICENSE para mai
 
 | Tipo | Link|
 |----|----|
-| Desafios|[acesse]()
-|Estudos|[acesso]()
+| Desafios|[acesse](https://github.com/patyfreitasbr/jogo-do-numero-secreto/tree/main/desafios)|
+|Estudos|[acesso](https://github.com/patyfreitasbr/jogo-do-numero-secreto/tree/main/exercicios/mod2-condicionais-e-concatenacao)|
 
 ## Contato
 
