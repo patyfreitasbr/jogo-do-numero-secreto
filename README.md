@@ -10,7 +10,7 @@ O jogo consiste em um simples desafio onde o usuário tenta adivinhar um número
 
 ## Demonstração
 
-Acesse para jogar <a href="[#](https://patyfreitasbr.github.io/jogo-do-numero-secreto/)"target="_blank">Link Site</a>
+Acesse para jogar <a href="https://patyfreitasbr.github.io/jogo-do-numero-secreto/" target="_blank">Link Site</a>
 
 ![Gif página](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQ2Ht_IMbayz1vi5j-xj1qqUBHXHHOFJC8sV-vp_hr4xvWtQ_vJyouvvvBrmQuWhATYoMuVEXz-pnvBIRiJ0Rk3C4JhLA5C4aEcqoYoDhx3g9sop6x3tS3MnhYb2kYPGY5CPThpZfFqsMbws_M6dDekHJEmlrk4J0v69cnXGSd9pDstXi0REWwtFtwajTi/s16000/jogo-numero-secreto.gif)
 
