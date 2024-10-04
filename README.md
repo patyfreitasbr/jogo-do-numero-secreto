@@ -1,4 +1,4 @@
-# Jogo do Número Secreto
+# Jogo do número secreto
 
 Bem-vindo ao repositório do Jogo do Número Secreto, um projeto desenvolvido durante o curso "Lógica de Programação do Zero com JavaScript" da <a href="https://www.alura.com.br/" target="_blank">Alura</a>. Neste jogo, o usuário deve adivinhar um número secreto gerado aleatoriamente pelo computador.
 
